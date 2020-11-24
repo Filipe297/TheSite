@@ -46,7 +46,6 @@ a{
 /**/
 
 /* artigo */
-
 .artigo{
     display: inline-block;
     width: 100%;
@@ -89,7 +88,6 @@ a{
 /**/
 
 /* artigo 2 */
-
 .artigo2{
     display: inline-block;
     width: 100%;
@@ -142,7 +140,6 @@ a{
 /**/
 
 /* Fotos do Demonio */
-
 .FdD{
     width: 100%;
     height: 1200px;
@@ -179,7 +176,6 @@ a{
 /**/
 
 /* foto louca */
-
 .img{width: 60%; height: 300px; margin: 400px auto 0px auto; background-color: black; text-align: left; font-size: 30px;}
 
 .img>p{
@@ -196,7 +192,6 @@ a{
 /**/
 
 /* sessão galeria */
-
 .Galeria{
     width: 100%;
     height: auto;
