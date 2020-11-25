@@ -241,6 +241,7 @@ a{
             width: 100%;
             font-size: 10px;
             text-align: justify;
+            display: inline-block;
         }
 
         .artigo2>.text2{
