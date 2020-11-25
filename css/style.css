@@ -210,9 +210,11 @@ a{
 }
 
 .Galeria .p{
-    padding: 200px 200px;
+    width: 400px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 80px;
     display: inline-block;
     border: 2px solid white;
-    margin-right: 40px;
 }
 /**/
