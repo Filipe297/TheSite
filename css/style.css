@@ -227,7 +227,9 @@ a{
             text-align: center;
             display: block;
         }
-
+        .artigo{
+            width: 100%;
+        }
         .artigo .text:nth-child(2){
             display: inline-block;
             margin-left: 0px;
