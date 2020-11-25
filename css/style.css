@@ -184,7 +184,7 @@ a{
 }
 
 .img:hover{
-    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU); */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU);
     background-position: 310px center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -253,9 +253,9 @@ a{
             margin-top: 100px;
         }
         .img:hover{
-            /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU); */
-            background-position: 190px right;
-            background-size: 200px 200px;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU);
+            background-position: 200px center;
+            background-size: 300px 300px;
             background-repeat: no-repeat;
             color: red;
         }
