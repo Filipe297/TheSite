@@ -212,5 +212,7 @@ a{
 .Galeria .p{
     padding: 100px 50px;
     display: inline-block;
+    border: 2px solid white;
+    margin-right: 100px;
 }
 /**/
