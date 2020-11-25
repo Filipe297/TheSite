@@ -254,13 +254,10 @@ a{
             display: inline-block;
             text-align: center;
         }
-        .FdD img{
+        .FdD:hover img, .corpo{
             width: 100%;
         }
-
-        .FdD .corpo{
-            width: 100%;
-        }
+        
         .img{
             display: inline-block;
             width: 100%; 
