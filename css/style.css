@@ -246,9 +246,7 @@ a{
 
         .img{
             display: inline-block;
-            width: 100%;
-            margin: 200px auto;
-            background-color: lawngreen; 
+            width: 100%; 
             font-size: 20px;
             margin-top: 100px;
         }
