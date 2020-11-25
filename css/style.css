@@ -239,6 +239,7 @@ a{
         .artigo .text>p{
             width: 100%;
             font-size: 10px;
+            text-align: justify;
         }
 
         .artigo2>.text2{
