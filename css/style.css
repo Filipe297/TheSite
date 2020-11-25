@@ -247,7 +247,10 @@ a{
         .artigo2>.text2{
             margin-left: 0px;
         }
-
+        .artigo2>.text2{
+            margin-left: 0px;
+            width: 100%;
+        }
         .FdD{
             height: 2760px;
             display: inline-block;
