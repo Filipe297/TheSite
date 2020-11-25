@@ -229,7 +229,7 @@ a{
         }
         .artigo{
             width: 100%;
-            overflow: hidden;
+            overflow: none;
         }
         .artigo .text:nth-child(2){
             display: inline-block;
