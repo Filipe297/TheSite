@@ -257,6 +257,10 @@ a{
         .FdD img{
             width: 100%;
         }
+
+        .FdD .corpo{
+            width: 100%;
+        }
         .img{
             display: inline-block;
             width: 100%; 
