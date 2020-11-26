@@ -351,6 +351,7 @@ a{
         .FdD:hover .corpo, img{
             width: 100%;
             max-width: 268px;
+            margin-left: 0;
         }
         .img{
             display: inline-block;
