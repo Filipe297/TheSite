@@ -213,6 +213,7 @@ a{
     margin-left: 30px;
     margin-top: 80px;
     display: inline-block;
+    margin-left: 0px;
 }
 
 .Galeria .p>img{
@@ -224,7 +225,7 @@ a{
 .Galeria .p>p{
     width: 100%;
     display: inline-block;
-}
+    }
 /**/
 
 /* media queries */
