@@ -349,6 +349,9 @@ a{
             text-align: center;
             background-color: green;
         }
+        .FdD.corpo{
+            background-color: red;
+        }
         .FdD:hover .corpo, img{
             width: 100%;
             max-width: 268px;
