@@ -144,10 +144,8 @@ a{
 .FdD{
     width: 100%;
     height: 1200px;
-    background-color: black;
     box-sizing: border-box;
     margin-top: 40px;
-    background-color: black;
 }
 
 .FdD img{
@@ -155,6 +153,7 @@ a{
     height: 300px;
     margin-left: 30px;
     margin-top: 80px;
+    display: ;
 }
  
 .FdD h3{
@@ -171,7 +170,7 @@ a{
 }
 
 .FdD:hover .corpo{
-    display: inline;
+    display: inline-block;
 }
 /**/
 
@@ -220,6 +219,86 @@ a{
 /**/
 
 /* media queries */
+
+@media screen and (max-width: 1350px){
+        .FdD{
+            height: 1586px;
+        }
+        .FdD:hover .corpo{
+            width: 100%;
+            height: 100%;
+            text-align: center;
+        }
+
+        .artigo .text.bt{
+            display: block;
+            width: 60%;
+            margin: 200px auto 0px auto;
+        }
+
+        .artigo .text:nth-child(1){
+            width: 90%;
+        }
+}
+
+@media screen and (max-width: 1024px){
+    a{
+        text-align: center;
+        display: block;
+    }
+    .artigo{
+        width: 100%;
+        overflow: none;
+    }
+    .artigo .text:nth-child(2){
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 100px;
+    }
+
+    .artigo .text{
+        width: 90%;
+        font-size: 20px;
+        text-align: justify;
+        display: inline-block;
+    }
+
+    .artigo .text.bt{
+        width: 70%;
+        font-size: 20px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    .artigo2>.text2, .Lazer{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .FdD{
+        width: 100%;
+        height: 2760px;
+        display: inline-block;
+        text-align: center;
+    }
+    .FdD:hover .corpo, img{
+        width: 100%;
+        max-width: 268px;
+    }
+    .img{
+        display: inline-block;
+        width: 50%; 
+        font-size: 20px;
+        margin-top: 100px;
+        margin-left: 20%;
+    }
+    .img:hover{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU);
+        background-position: 160px center;
+        background-size: 250px 250px;
+        background-repeat: no-repeat;
+        color: red;
+    }
+}
 
 @media screen and (max-width: 720px){
         a{
@@ -270,7 +349,7 @@ a{
             max-width: 600px; 
             font-size: 20px;
             margin-top: 100px;
-            /* margin-left: 20px; */
+            margin-left: 0px;
         }
         .img:hover{
             background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU);
