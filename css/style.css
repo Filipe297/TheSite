@@ -239,7 +239,7 @@ a{
         .artigo .text{
             width: 90%;
             font-size: 20px;
-            text-align: justify;
+            text-align: left;
             display: inline-block;
         }
 
