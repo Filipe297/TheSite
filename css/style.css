@@ -347,15 +347,14 @@ a{
             height: 2760px;
             display: inline-block;
             text-align: center;
-            background-color: green;
         }
         .FdD .corpo{
-            background-color: red;
+            width: 100%;
         }
-        .FdD:hover .corpo, img{
+        .FdD:hover .corpo img{
             width: 100%;
             max-width: 268px;
-            margin-left: 0;
+            margin-left: -2px;
         }
         .img{
             display: inline-block;
