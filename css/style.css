@@ -162,7 +162,6 @@ a{
     text-align: center;
 }
 
-
 .FdD .center{
     text-align: center;
 } 
@@ -238,8 +237,8 @@ a{
         }
 
         .artigo .text{
-            width: 100%;
-            font-size: 10px;
+            width: 80%;
+            font-size: 20px;
             text-align: justify;
             display: inline-block;
         }
@@ -254,15 +253,16 @@ a{
             display: inline-block;
             text-align: center;
         }
-        .FdD:hover .corpo{
+        .FdD:hover .corpo, img{
             width: 100%;
+            max-width: 268px;
         }
-
         .img{
             display: inline-block;
-            width: 100%; 
+            width: 90%; 
             font-size: 20px;
             margin-top: 100px;
+            margin-left: 20px;
         }
         .img:hover{
             background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU);
