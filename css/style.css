@@ -349,7 +349,7 @@ a{
             text-align: center;
             background-color: green;
         }
-        .FdD.corpo{
+        .FdD .corpo{
             background-color: red;
         }
         .FdD:hover .corpo, img{
