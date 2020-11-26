@@ -266,14 +266,15 @@ a{
         }
         .img{
             display: inline-block;
-            width: 100%; 
+            width: 100%;
+            max-width: 600px; 
             font-size: 20px;
             margin-top: 100px;
-            margin-left: 20px;
+            /* margin-left: 20px; */
         }
         .img:hover{
             background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwod-D-DfGf0_hOpGtE5w1PY6JkpDznEu4og&usqp=CAU);
-            background-position: 200px center;
+            background-position: 150px center;
             background-size: 300px 300px;
             background-repeat: no-repeat;
             color: red;
